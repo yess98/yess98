@@ -14,6 +14,7 @@
  
  <h3>🔨 TECH STACKS 🔨</h3>
     <hr>
+    
   Techs i've used least once 
   
   <div> 
